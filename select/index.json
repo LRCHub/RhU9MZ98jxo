@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Paris",
+  "base_artist": "The Chainsmokers",
+  "createdAt": "2026-03-09T15:41:57.999114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paris",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Paris_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Exilio en París",
+      "artist": "Miguel Mateos - ZAS",
+      "has_synced": false,
+      "path": "select/02_Exilio_en_París_Miguel_Mateos_-_ZAS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "11 - Exilio En París",
+      "artist": "Miguel Mateos",
+      "has_synced": false,
+      "path": "select/03_11_-_Exilio_En_París_Miguel_Mateos.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Conexión París",
+      "artist": "Sobrecarga",
+      "has_synced": true,
+      "path": "select/04_Conexión_París_Sobrecarga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paris Morton Music",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/05_Paris_Morton_Music_Drake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pound Cake / Paris Morton Music 2",
+      "artist": "Drake feat. JAY-Z",
+      "has_synced": true,
+      "path": "select/06_Pound_Cake___Paris_Morton_Music_2_Drake_feat._JAY-Z.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pound Cake / Paris Morton Music 2 (Feat. Jay-Z)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/07_Pound_Cake___Paris_Morton_Music_2_(Feat._Jay-Z)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Woods - Live from Pitchfork Paris Presented by La Blogothèque, Nov 3 2018",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/08_Woods_-_Live_from_Pitchfork_Paris_Presented_by_La_Blogothèque,_Nov_3_2018_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Woods (Live from Pitchfork Paris Presented by La Blogothèque, Nov 3 2018)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/09_Woods_(Live_from_Pitchfork_Paris_Presented_by_La_Blogothèque,_Nov_3_2018)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paris samba",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/10_Paris_samba_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tokio - Paris",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/11_Tokio_-_Paris_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dollars & Cents - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Dollars_&_Cents_-_Live_At_Canal+_Studios,_Paris_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everything In Its Right Place - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Everything_In_Its_Right_Place_-_Live_At_Canal+_Studios,_Paris_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everything in Its Right Place (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/14_Everything_in_Its_Right_Place_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How To Disappear Completely - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/15_How_To_Disappear_Completely_-_Live_At_Canal+_Studios,_Paris_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How to Disappear Completely (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/16_How_to_Disappear_Completely_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Might Be Wrong - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/17_I_Might_Be_Wrong_-_Live_At_Canal+_Studios,_Paris_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Idioteque - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/18_Idioteque_-_Live_At_Canal+_Studios,_Paris_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Idioteque (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/19_Idioteque_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "In Limbo - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/20_In_Limbo_-_Live_At_Canal+_Studios,_Paris_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paris",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/pl_01_Paris_The_Chainsmokers.txt"
+    }
+  ]
+}
