@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Paris",
   "base_artist": "The Chainsmokers",
-  "createdAt": "2026-03-09T15:41:57.999114Z",
+  "createdAt": "2026-03-31T12:25:46.472435Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -171,6 +171,15 @@
       "artist": "The Chainsmokers",
       "has_synced": false,
       "path": "select/pl_01_Paris_The_Chainsmokers.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Paris",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/localdb_01_Paris_The_Chainsmokers.txt",
+      "repo_name": "RhU9MZ98jxo"
     }
   ]
 }
